@@ -1,2 +1,2 @@
 # Deal-with-fasta-file
-Remove duplicatesin fasta format file
+Remove duplicates in fasta format file
